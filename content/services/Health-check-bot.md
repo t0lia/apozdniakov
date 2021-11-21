@@ -6,4 +6,10 @@ featured: true
 weight: 6
 ---
 
-# Health check bot
+This project is created to provide health check for spring rest service and
+send notification telegram
+
+
+## Source code
+
+[gitlab.com/t0lia/rest-heath-check-bot](https://gitlab.com/t0lia/rest-heath-check-bot)

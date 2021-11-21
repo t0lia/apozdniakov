@@ -6,4 +6,8 @@ draft: false
 weight: 3
 ---
 
-# Devops
+My ansible playbooks which I use to deliver infrastructure to servers
+
+## Source code
+
+[github.com/t0lia/ansible](https://github.com/t0lia/ansible)

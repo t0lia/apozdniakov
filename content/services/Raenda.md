@@ -7,5 +7,12 @@ weight: 1
 ---
 
 
-# Raenda
-[raenda](https://raenda.ru)
+Car rental service.
+
+## Project
+
+[raenda.ru](https://raenda.ru)
+
+## Source code
+
+[gitlab.com/peggydev/peggy](https://gitlab.com/peggydev/peggy)

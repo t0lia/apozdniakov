@@ -6,4 +6,8 @@ draft: false
 weight: 5
 ---
 
-# Shell scripting
+Some useful shell scripts
+
+# Source code
+
+[github.com/t0lia/bin](https://github.com/t0lia/bin)

@@ -6,4 +6,8 @@ draft: false
 weight: 2
 ---
 
-# Python recipes
+Here is a cookbook with recipes to automate some simple mundane stuff.
+
+## Source code
+
+[github.com/t0lia/python101](https://github.com/t0lia/python101)
